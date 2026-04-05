@@ -28,8 +28,8 @@ I enjoy exploring datasets and uncovering patterns—sometimes the most interest
 
 ## 📫 Connect with Me
 
-**LinkedIn:** (add your LinkedIn link here)
-**Email:** (add your email here)
+**LinkedIn:** https://www.linkedin.com/in/damartriwardana/
+**Email:** damartriwardana@gmail.com
 
 ---
 
@@ -77,7 +77,6 @@ Core Skills Developed:
 * Deep Learning
 * Natural Language Processing
 * SQL
-* A/B Testing
 * Feature Engineering
 
 **Mercu Buana University**
