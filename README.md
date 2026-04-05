@@ -28,7 +28,7 @@ I enjoy exploring datasets and uncovering patterns—sometimes the most interest
 
 ## 📫 Connect with Me
 
-**LinkedIn:** https://www.linkedin.com/in/damartriwardana/
+**LinkedIn:** https://www.linkedin.com/in/damartriwardana/  
 **Email:** damartriwardana@gmail.com
 
 ---
